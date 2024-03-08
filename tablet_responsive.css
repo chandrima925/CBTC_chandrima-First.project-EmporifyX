@@ -1,0 +1,12 @@
+.journey-content-section {
+
+    flex-wrap: wrap;
+}
+
+.journey-wrapper .main-wrap {
+    flex-wrap: nowrap;
+}
+
+.journey .btn2 {
+    margin-left: 0;
+}
